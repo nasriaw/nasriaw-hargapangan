@@ -1,0 +1,6 @@
+{
+  "name": "Hargapangan Malang Raya",
+  "description": "Pantau harga pangan strategis di Malang Raya secara real-time dengan data akurat dari pasar tradisional.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
